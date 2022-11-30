@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\Ogrenim\Ogrenim\Source.cpp(15,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  8 of 9 functions (88.9%) were compiled, the rest were copied from previous compilation.
+    7 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ogrenim.vcxproj -> C:\Users\user\source\repos\Ogrenim\Release\Ogrenim.exe
